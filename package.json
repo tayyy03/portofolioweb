@@ -1,0 +1,16 @@
+{
+    "name": "portofolio",
+    "version": "1.0.0",
+    "description": "Personal portfolio website for a Robotics and AI Engineer",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "ejs": "^3.1.10",
+        "express": "^4.21.1"
+    }
+}
